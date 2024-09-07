@@ -6,5 +6,5 @@
 Feel free to checkout my [community](https://az-way.com/) website!
 - 🏢 Web developer from Almaty, KZ 🇰🇿
 - 🧰 I build with: `Typescript`
-- 🧪 Wanna switch to: `Dart`, `Golang`, `Rust`
+- 🧪 Wanna switch to: `Kotlin`, `Rust`
 - ⚡ I enjoy making content, but wanna bulid system first
